@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://github.com/carlminier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&lines=Carl+Minier" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Carl+Minier" alt="Carl Minier" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/carlminier">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Typing SVG" /></a>
+  <a href="https://github.com/carlminier">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
 </p>
