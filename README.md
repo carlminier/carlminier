@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
 </p>
 
-## 🔧 Technologies
+## 🔧 Software & Tools
 <p align="center">
   <a href="https://www.linkedin.com/in/carl-minier/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
