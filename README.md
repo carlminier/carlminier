@@ -25,9 +25,6 @@
   <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet">
     <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
-  <a href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
@@ -36,6 +33,9 @@
   </a>
   <a href="https://html.com/">
     <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+    <a href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" />
   </a>
   <a href="https://jquery.com/">
     <img src="https://skillicons.dev/icons?i=jquery" />
