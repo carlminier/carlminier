@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
 </p>
 
-##
+## 🔧 Technologies
 <p align="center">
   <a href="https://www.linkedin.com/in/carl-minier/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -49,11 +49,18 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-    <a href="https://stackoverflow.com/">
+  <a href="https://stackoverflow.com/">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
+<!--   </a>
+    <a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://badgelist.s3.amazonaws.com/u/group/569d488d0499d6a7b700000d/csc191_logo_medium.png">
+  </a> -->
 </p>
-
+<div align="center">
+  
+ <a href="">![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)</a>
+  
+</div>
 
 ## 🎧 Spotify Playing
 [![State of Jazz](https://img.shields.io/badge/State%20of%20Jazz%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7YCknf2jT6s%3Fsi%3D12ab44acd0144ffe)](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s?si=d128da71ab2d46ab)
