@@ -56,4 +56,6 @@
 
 
 ## 🎧 Spotify Playing
+![Static Badge](https://img.shields.io/badge/StateofJazz%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7YCknf2jT6s%3Fsi%3D12ab44acd0144ffe)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&redirect=true)
