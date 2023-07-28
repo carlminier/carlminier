@@ -13,7 +13,7 @@ I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've 
 
 <p align="center">
 You can contact me at: 
-<a href="mailto:carlmdevelopergmail.com?subject=I loved your Github!">carlmdeveloper@gmail.com</a>
+<a href="mailto:carlmdevelopergmail.com?subject=I Loved Your Github!">carlmdeveloper@gmail.com</a>
 </p>
 
 
