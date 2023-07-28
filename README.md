@@ -11,10 +11,10 @@
 ## About Me:
 I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've always had a knack for computers ever since I was a child. My father always had a computer due to his work while he was in the military. I had a blast as a child playing old-school games from floppy discs, the good old days when the internet was still an infant. Over the years I found myself learning more and more on my own to the point that I decided to fully pursue the path as a career. I am currently a Student getting my BS in Computer Science at National University. If I'm not coding you can usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family.
 
-
-  You can reach me at: 
+<p align="center">
+You can contact me at: 
 <a href="mailto:carlmdevelopergmail.com">carlmdeveloper@gmail.com</a>
-
+</p>
 
 
 ## Recent Projects:
