@@ -10,7 +10,13 @@
 
 ## About Me:
 <p align="center">
-I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've always had a knack for computers ever since I was a child. My father always had a computer due to his work while he was in the military. I had a blast as a child playing old-school games from floppy discs, the good old days when the internet was still an infant. Over the years I found myself learning more and more on my own to the point that I decided to fully pursue Software Engineering as a career. I am currently a Student getting my BS in Computer Science at National University. If I'm not coding you can usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family.
+As a Full Stack Software Engineer, Navy Veteran, and devoted Father of two little ones, my journey into the world of computing began long ago, as a wide-eyed child filled with wonder. It was my father who first introduced me to the magical realm of computers. I still recall those enchanting days when floppy discs held the key to old-school gaming adventures, and the internet was still an absolute infant.
+
+As the years passed, my fascination with computers only grew stronger. I immersed myself in the digital world, devouring knowledge, and honing my skills independently. It was as if destiny was gently nudging me toward a path I was destined to follow. Eventually, I realized that Software Engineering was not merely a career choice, but a calling that beckoned me to create and innovate.
+
+Currently, I'm furthering my dreams as a Student at National University, diligently working towards my Bachelor's degree in Computer Science. The journey has been filled with challenges and triumphs. I cherish every moment of this voyage, as it brings back memories of the many days spent exploring the frontiers of technology.
+
+When I'm not immersed in the realm of coding, you'll usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family. My path as a software engineer is not only a reflection of my skills and knowledge but a tribute to the nostalgic memories that kindled my passion for technology. With every line of code I write, I pay homage to the past while shaping a brighter future for myself and those around me.
 </p>
 
 <p align="center">
@@ -99,12 +105,9 @@ You can contact me at:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&redirect=true)
 </div>
 
-## Code Cycle<br>
-
+## Code Cycle:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 
 </div>
