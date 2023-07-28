@@ -13,8 +13,7 @@ I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've 
 
 
   You can reach me at: 
-  [carlmdeveloper@gmail.com](mailto:carlmdeveloper@gmail.com)
-
+<a href="mailto:carlmdevelopergmail.com">carlmdeveloper@gmail.com</a>
 
 
 
