@@ -24,7 +24,9 @@ When I'm not immersed in the realm of coding, you'll usually find me anywhere th
 </details>
 
 You can contact me at: 
+<strong>
 <a href="mailto:carlmdeveloper@gmail.com?subject=I Loved Your Github!">carlmdeveloper@gmail.com</a>
+</strong>
 
 ## Software & Tools:
   <a href="https://www.linkedin.com/in/carl-minier/">
