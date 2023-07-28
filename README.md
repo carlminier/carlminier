@@ -4,13 +4,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/carlminier">
+  <a href="https://www.linkedin.com/in/carl-minier/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
 </p>
 
-## Recent Projects
+## About Me:
+I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've always had a knack for computers ever since I was a child. My father always had a computer due to his work while he was in the military. I had a blast as a child playing old-school games from floppy discs, the good old days when the internet was still an infant. Over the years I found myself learning more and more on my own to the point that I decided to fully pursue the path as a career. I am currently a Student getting my BS in Computer Science at National University. If I'm not coding you can usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family.
+
 <p align="center">
-<a href="https://github.com/carlminier/AssignRef">
+  You can reach me at: 
+  <a href="carlmdeveloper@gmail.com">
+  carlmdeveloper@gmail.com
+  </a>
+</p>
+
+## Recent Projects:
+<p align="center">
+<a href="https://www.linkedin.com/in/carl-minier/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/carlminier/Code-Challenges">
@@ -70,11 +80,13 @@
   
  <a href="">[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)](https://www.microsoft.com/en-us/sql-server)</a>
 </div>
-<p align="center">
+
+<a href="https://github.com/carlminier/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlminier&show_icons=true&theme=tokyonight" />
+</a>
 <a href="https://github.com/carlminier/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
-</p>
 
 ## Coding to: 🎧
 [![State of Jazz](https://img.shields.io/badge/State%20of%20Jazz%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7YCknf2jT6s%3Fsi%3D12ab44acd0144ffe)](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s?si=d128da71ab2d46ab)
