@@ -1,4 +1,4 @@
-<div align="center" width="500">
+<div align="center" width="50">
   
 <a href="https://github.com/carlminier">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Carl+Minier" alt="Carl Minier" /></a>
@@ -24,19 +24,8 @@ Currently, I'm furthering my dreams as a Student at National University, diligen
 When I'm not immersed in the realm of coding, you'll usually find me anywhere there is good Jazz music playing, at the Gym, or at the Beach with my family. My path as a software engineer is not only a reflection of my skills and knowledge but a tribute to the nostalgic memories that kindled my passion for technology. With every line of code I write, I pay homage to the past while shaping a brighter future for myself and those around me.
 </details>
 
-
 You can contact me at: 
 <a href="mailto:carlmdeveloper@gmail.com?subject=I Loved Your Github!">carlmdeveloper@gmail.com</a>
-
-
-
-## Recent Projects:
-<a href="https://www.linkedin.com/in/carl-minier/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/carlminier/Code-Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=Code-Challenges&show_icons=true&theme=tokyonight" />
-</a>
 
 ## Software & Tools:
   <a href="https://www.linkedin.com/in/carl-minier/">
@@ -80,12 +69,16 @@ You can contact me at:
   </a>
   <a href="https://stackoverflow.com/">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
-    
-
   
  <a href="">[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)](https://www.microsoft.com/en-us/sql-server)</a>
 
-
+## Recent Projects:
+<a href="https://www.linkedin.com/in/carl-minier/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/carlminier/Code-Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=Code-Challenges&show_icons=true&theme=tokyonight" />
+</a>
 
 <a href="https://github.com/carlminier/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
