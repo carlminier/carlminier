@@ -14,11 +14,11 @@ I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've 
 <p align="center">
   You can reach me at: 
   <a href="carlmdeveloper@gmail.com">
-  carlmdeveloper@gmail.com
-  </a>
+<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/mail/u/0/#inbox/140d656b8e54d660">carlmdeveloper@gmail.com</a>
+  
 </p>
 
-<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb">Web Migrations for this weekend</a>
+
 
 ## Recent Projects:
 <p align="center">
