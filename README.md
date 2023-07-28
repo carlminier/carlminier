@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-<a href="https://github.com/carlminier">
+<a href="https://www.linkedin.com/in/carl-minier/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Carl+Minier" alt="Carl Minier" /></a>
 <br>
   <a href="https://www.linkedin.com/in/carl-minier/">
