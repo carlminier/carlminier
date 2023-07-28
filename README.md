@@ -9,7 +9,14 @@
 </p>
 
 ## Recent Projects
-[![AssignRef](https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight)](https://github.com/carlminier/AssignRef )
+<p align="center">
+<a href="https://github.com/carlminier/AssignRef">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/carlminier/Code-Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=Code-Challenges&show_icons=true&theme=tokyonight" />
+</a>
+</p>
 
 ## Software & Tools
 <p align="center">
@@ -62,20 +69,16 @@
 <div align="center">
   
  <a href="">[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)](https://www.microsoft.com/en-us/sql-server)</a>
-  
 </div>
+<p align="center">
+<a href="https://github.com/carlminier/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+</a>
+</p>
 
-## 🎧 Current Jam Session
+## Coding to: 🎧
 [![State of Jazz](https://img.shields.io/badge/State%20of%20Jazz%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7YCknf2jT6s%3Fsi%3D12ab44acd0144ffe)](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s?si=d128da71ab2d46ab)
 [![Indie Rock Road Trip](https://img.shields.io/badge/Indie%20Rock%20Road%20Trip%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DWUoqEG4WY6ce%3Fsi%3D9289ec06d5f9406c)](https://open.spotify.com/playlist/37i9dQZF1DWUoqEG4WY6ce?si=7b221861ec904bd5)
 [![Salsa Classics](https://img.shields.io/badge/Salsa%20Classics-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7SeoIaFyTmA%3Fsi%3Da6b5f6a8a3c447b9)](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA?si=cdfa68e48c494106)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1257430221&redirect=true)
-
-
-<a href="https://github.com/carlminier/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlminier&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/carlminier/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
-</a>
