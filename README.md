@@ -18,6 +18,8 @@ I'm a Full Stack Software Engineer, Navy Veteran, and Father of 2 under 2. I've 
   </a>
 </p>
 
+<a onclick="return linkRedirecter(this)" target="_blank" class="ex_link" href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb">Web Migrations for this weekend</a>
+
 ## Recent Projects:
 <p align="center">
 <a href="https://www.linkedin.com/in/carl-minier/">
