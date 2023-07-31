@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href="https://www.linkedin.com/in/carl-minier/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Carl+Minier" alt="Carl Minier" /></a>
 <br>
@@ -74,7 +74,7 @@ You can contact me at:
     
  <a href="">[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%20red?logo=microsoft%20SQL%20server&link=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsql-server)](https://www.microsoft.com/en-us/sql-server)</a>
 
-## Recent Projects:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://github.com/carlminier/AssignRef">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
 </a>
