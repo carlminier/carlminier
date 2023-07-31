@@ -75,12 +75,7 @@ When I'm not immersed in the realm of coding, you'll usually find me anywhere th
 <a href="https://github.com/carlminier/AssignRef">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/carlminier/Code-Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=Code-Challenges&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/carlminier/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlminier&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
-</a>
+
 
 ## Coding to: 🎧
 [![State of Jazz](https://img.shields.io/badge/State%20of%20Jazz%20-%20lightgreen?logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F37i9dQZF1DX7YCknf2jT6s%3Fsi%3D12ab44acd0144ffe)](https://open.spotify.com/playlist/37i9dQZF1DX7YCknf2jT6s?si=d128da71ab2d46ab)
