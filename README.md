@@ -1,10 +1,11 @@
 <div align="center" width="50">
-  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/carl-minier/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Carl+Minier" alt="Carl Minier" /></a>
 <br>
   <a href="https://www.linkedin.com/in/carl-minier/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
   <summary>
