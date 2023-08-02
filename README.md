@@ -5,9 +5,8 @@
 <br>
   <a href="https://www.linkedin.com/in/carl-minier/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Software+Engineer;Forever+a+Student%2C+Forever+Evolving." alt="Full Stack Software Engineer" /></a>
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 
 ## Software & Tools:
   <a href="https://www.linkedin.com/in/carl-minier/">
@@ -72,6 +71,7 @@ When I'm not immersed in the realm of coding, you'll usually find me anywhere th
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href="https://github.com/carlminier/AssignRef">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlminier&repo=AssignRef&show_icons=true&theme=tokyonight" />
 </a>
